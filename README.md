@@ -1,1 +1,1 @@
-# ista de Produtos com Modal de Detalhes
+# Lista de Produtos com Modal de Detalhes
